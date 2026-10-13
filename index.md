@@ -1,6 +1,6 @@
 ---
 title: "Accueil"
-order: 1
+order: 2
 in_menu: true
 ---
 # Arthur Birac Urbanisme
