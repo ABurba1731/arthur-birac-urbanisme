@@ -1,6 +1,6 @@
 ---
 title: "Articles"
-order: 1
+order: 6
 in_menu: true
 blog_index: true
 ---
