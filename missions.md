@@ -1,6 +1,6 @@
 ---
 title: "Missions"
-order: 7
+order: 2
 in_menu: true
 ---
 # **Plan Local d'Urbanisme**  
