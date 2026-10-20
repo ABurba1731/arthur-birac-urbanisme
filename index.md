@@ -1,5 +1,5 @@
 ---
-title: "Arthur Birac Urbanisme 2"
+title: "Arthur Birac Urbanisme"
 order: 2
 in_menu: true
 ---
