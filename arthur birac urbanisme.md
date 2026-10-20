@@ -1,6 +1,6 @@
 ---
 title: "Arthur Birac Urbanisme"
-order: 2
+order: 1
 in_menu: true
 ---
 Urbaniste-Géographe indépendant, j'accompagne les collectivités dans l'élaboration de leurs documents d'urbanisme.  
