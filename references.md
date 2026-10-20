@@ -30,7 +30,7 @@ in_menu: true
 ### Etudes urbaines
 
 **Seine-Saint-Denis (93)**  
-`-`_Sevran_ (Société du Grand Paris / Ile-de-France Mobilités / AMIF) : étude de préfiguration des espaces extérieurs de la future gare du Grand Paris (Ligne 15)
+`-`_Sevran_ (Société du Grand Paris / Ile-de-France Mobilités / AMIF) : étude de préfiguration des espaces extérieurs de la future gare du Grand Paris (Ligne 15) (2021)
 
 **Yvelines (78)**  
 `-`_CC Portes de l’Ile-de-France_ : plan guide, étude de revitalisation des centres-bourgs de Bonnières-sur-Seine et Freneuse , dans le cadre du programme Petites Villes de Demain (2023)
