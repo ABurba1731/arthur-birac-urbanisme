@@ -1,5 +1,5 @@
 ---
-title: "Missions 2"
+title: "Missions"
 order: 7
 in_menu: true
 ---
