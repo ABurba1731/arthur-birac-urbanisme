@@ -17,5 +17,6 @@ _Bureau à L'Union (31)_
 
 #### Echange préalable gratuit
 
-       Avant tout devis, je vous propose un échange de 30 min pour comprendre votre contexte, vos délais et votre budget.
-                                Sans engagement 
+       Avant tout devis, je vous propose un échange de 30 min pour comprendre  
+                 votre contexte, vos délais et votre budget.  
+                               Sans engagement 
