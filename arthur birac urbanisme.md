@@ -3,9 +3,9 @@ title: "Arthur Birac Urbanisme"
 order: 1
 in_menu: true
 ---
-Urbaniste-Géographe indépendant, j'accompagne les collectivités dans dans l'élaboration de leurs documents d'urbanisme.  
+Urbaniste-Géographe indépendant, j'accompagne les collectivités dans l'élaboration de leurs documents d'urbanisme.  
 
-Après avoir forgé mon expérience en tant que directeur d'études et associé d'un bureau d'études et de conseil en urbanisme parisien, j'ai choisi de revenir m'installer à Toulouse, ma terre natale.  
+Après avoir forgé mon expérience en tant qu'associé et directeur d'études d'un bureau d'études et de conseil en urbanisme parisien, j'ai choisi de revenir m'installer à Toulouse, ma terre natale.  
 C'est au cœur de cette région que je mets aujourd'hui mon expertise au service des territoires et de leurs acteurs.
 
 Mon activité s'articule autour de quatre grands domaines d'intervention, conçus pour accompagner les collectivités de l'idée à la réalisation :  
