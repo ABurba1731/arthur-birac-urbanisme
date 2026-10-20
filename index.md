@@ -1,33 +1,23 @@
 ---
-title: "Missions"
+title: "Arthur Birac Urbanisme 2"
 order: 2
 in_menu: true
 ---
-# **Plan Local d'Urbanisme**  
-J'accompagne les communes et EPCI de la prescription à l'approbation de leur Plan Local d'Urbanisme. Un suivi continu, avec un interlocuteur unique, des documents illustrés et juridiquement solides. J'assure une maîtrise de l'ensemble des procédures :  
-_Elaboration - Révision générale, Modification de droit commun, Déclaration de projet, Révision avec examen conjoint_
+Urbaniste-Géographe indépendant, j'accompagne les collectivités dans l'élaboration de leurs documents d'urbanisme.  
 
-# **Etudes urbaines**
-Je vous accompagne dans la réalisation de vos études urbaines, du diagnostic préalable au bilan d'aménagement, en passant par l'établissement de scenarios d'aménagement et l'esquisse du plan guide et programmatique :  
-_Renouvellement urbain, étude de centre-bourg, création de nouveaux quartiers, aménagement des espaces publics, préfiguration d'aménagements temporaires..._ 
+Après avoir forgé mon expérience en tant qu'associé et directeur d'études d'un bureau d'études et de conseil en urbanisme parisien, j'ai choisi de revenir m'installer à Toulouse, ma terre natale.  
+C'est au cœur de cette région que je mets aujourd'hui mon expertise au service des territoires et de leurs acteurs.
 
+Mon activité s'articule autour de quatre grands domaines d'intervention, conçus pour accompagner les collectivités de l'idée à la réalisation :  
 
-# **Concertation sur-mesure**
-Je définie une concertation sur-mesure selon la nature des projets et le degré d'implication souhaitée par la collectivité. Chaque outil est accompagné d'un compte-rendu faisant état de l'apport réel des participants au projet.  
-_Questionnaires en ligne pour alimenter les diagnostics, balades urbaines à pied ou à vélo, ateliers de co-construction pédagogiques et ludiques, des chantiers participatifs._
+*	**Planification urbaine et urbanisme réglementaire**  
+Je prends en charge l'élaboration et la révision de vos **_Plans Locaux d'Urbanisme (PLU/PLUi) et cartes communales_**, ainsi que les procédures de mise en compatibilité (MEC DP). Mon expertise intègre également la réalisation des évaluations environnementales, la rédaction de Règlements Locaux de Publicité (RLP) et la prise en compte des enjeux de santé publique (bruit, qualité de l'air) dans les documents réglementaires.  
 
-# **Evaluation environnementale**  
-Accompagné par des bureaux d'études spécialisés, je vous assiste dans le cadre des procédures d'évolution des documents d'urbanisme nécessitant une évaluation environnementale : cas par cas et évaluation systématique. 
+* **Études urbaines, programmation et urbanisme pré-opérationnel**  
+Je réalise des études de faisabilité, de définition et de recomposition urbaine. Son savoir-faire s'étend aux projets de revitalisation de centre-bourg, d'urbanisme temporaire, au développement des mobilités douces, ainsi qu'à la renaturation de berges et à la recréation de zones humides. Je vous accompagne aussi dans la programmation d'équipements scolaires, d'espaces publics et d'aménagements extérieurs.  
 
-# **Instruction du droit des sols (ADS)**    
-Je vous assiste dans l'instruction de vos demandes d'autorisation d'urbanisme :  
-_Permis de construire (PC), Déclaration préalable (DP), Permis d'aménager (PA) et de démolir (PD), Certificat d'urbanisme (CU)_  
-=>**_Gain pour la collectivité_** : Je soulage les services instructeurs parfois débordés par les demandes. 
+* **AMO et Conseil en environnement et urbanisme**  
+J'interviens comme **_Assistant à Maîtrise d’Ouvrage (AMO)_** sur des missions stratégiques telles que l'Approche Environnementale de l'Urbanisme (AEU), les études d'impact ou la conception d'écoquartiers. Enfin, j'apporte un **_appui technique et juridique quotidien_** (instruction des permis de construire/aménager, gestion des contentieux).  
 
-# **Permanence d'accueil urbanisme**  
-Je mets en place des permanences clés en main au sein de vos locaux pour accompagner vos administrés dans la concrétisation de leurs projets d'aménagement. J'ai un rôle d'interface conseil entre la collectivité, les services instructeurs et les administrés.   
-=>**_Gain pour la collectivité_** : En qualifiant les demandes en amont, le taux de dossiers incomplets ou non conformes déposés en mairie est réduit, tout en améliorant la satisfaction des habitants. C'est un service public de proximité offert par la collectivité à ses administrés, dans une période qui en a bien besoin. 
-
-# **Numérisation au GPU**  
-J'assure la numérisation de vos documents d'urbanisme au standard CNIG, de la constitution du dossier des pièces écrites (Procédure, Rapport de présentation, PADD, Règlement, Annexes, OAP) aux corrections et mises à jours des fichiers shapefile des données géographiques (plan de zonage) via le logiciel QGis, et vous transmets le rapport de conformité avant publication.  
-=> **_Gain pour la collectivité_** : Numérisation d'une trentaine de documents d'urbanisme, expérience, coût réduit et réactivité. 
+* **Concertation et animation**  
+Parce qu'un projet réussi est un projet partagé, je conçois et anime des **_dispositifs participatifs sur-mesure_** : ateliers de co-construction, questionnaires, balades urbaines, réunions publiques, mais aussi création d'expositions professionnelles et de sites internet dédiés. 
