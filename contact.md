@@ -7,9 +7,9 @@ in_menu: true
 
 _**Téléphone**_ : 06 46 02 22 97
 
-_**Mail**_ : 
+_**Mail**_ : arthur-birac@aburba.fr
 
-_**Linkedin**_ :   
+_**Linkedin**_ : _linkedin.com/in/arthur-birac-bb6b23178_
 
 _Bureau à L'Union (31)_  
 
